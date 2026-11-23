@@ -1,0 +1,6 @@
+{
+  "name": "Glass27",
+  "description": "An iOS 27 Liquid Glass launcher for Android featuring Control Center, App Library, interactive glass widgets, theme packs, haptic gestures, and adaptive battery optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

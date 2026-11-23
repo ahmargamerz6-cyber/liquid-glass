@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Glass27</string>
+    <string name="cd_app_icon">App icon for %1$s</string>
+    <string name="cd_folder_icon">Folder %1$s</string>
+    <string name="cd_control_center">Open Control Center</string>
+    <string name="cd_notifications">Open Notification Center</string>
+    <string name="cd_unlock">Unlock screen</string>
+    <string name="cd_flashlight">Toggle Flashlight</string>
+    <string name="cd_camera">Open Camera</string>
+    <string name="cd_settings">Open Launcher Settings</string>
+</resources>
